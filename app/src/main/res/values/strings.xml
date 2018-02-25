@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">PIPITLIANDANI_1202154363_Modul3</string>
+    <string-array name="list_images">
+        <item>@drawable/ades</item>
+        <item>@drawable/amidis</item>
+        <item>@drawable/aqua</item>
+        <item>@drawable/cleo</item>
+        <item>@drawable/club</item>
+        <item>@drawable/equil</item>
+        <item>@drawable/evian</item>
+        <item>@drawable/leminerale</item>
+        <item>@drawable/nestle</item>
+        <item>@drawable/pristine</item>
+        <item>@drawable/vit</item>
+
+    </string-array>
+    <string-array name="water_titles">
+        <item>Ades</item>
+        <item>Amidis</item>
+        <item>Aqua</item>
+        <item>Cleo</item>
+        <item>Club</item>
+        <item>Equil</item>
+        <item>Evian</item>
+        <item>Le Minerale</item>
+        <item>Nestle</item>
+        <item>Pristine</item>
+        <item>VIT</item>
+    </string-array>
+    <string-array name="water_subtitle">
+        <item>Baca selengkapnya disini!!!!</item>
+        <item>Baca selengkapnya disini!!!!</item>
+        <item>Baca selengkapnya disini!!!!</item>
+        <item>Baca selengkapnya disini!!!!</item>
+        <item>Baca selengkapnya disini!!!!</item>
+        <item>Baca selengkapnya disini!!!!</item>
+        <item>Baca selengkapnya disini!!!!</item>
+        <item>Baca selengkapnya disini!!!!</item>
+        <item>Baca selengkapnya disini!!!!</item>
+        <item>Baca selengkapnya disini!!!!</item>
+        <item>Baca selengkapnya disini!!!!</item>
+    </string-array>
+    <string-array name="desc">
+        <item>Ades adalah air mineral produk dari The Coca-Cola Company, merupakan air minum dalam kemasan yang Murni, Aman dan Terpercaya, yang dijamin oleh The Coca-Cola Company.
+            \nDengan botol Ades 600 ml memakai bahan plastik yang lebih sedikit sehingga mudah diremukkan. Dengan volume botol kosong yang lebih kecil setelah diremukkan, maka akan menghemat ruang di tempat sampah. \n\n
+            Dan selanjutnya juga menghasilkan jejak emisi karbon yang lebih kecil saat sampah tersebut diangkut.
+Dengan tampilan baru ini, Ades memiliki misi mulia untuk menjadikan Indonesia lebih baik melalui tindakan sederhana untuk lingkungan.</item>
+
+        <item>AMIDIS adalah produk Air Minum Dalam Kemasan (AMDK) yang sudah diproduksi sejak tahun 1997 dan merupakan air minum distilasi pertama di Indonesia yang telah menjadi salah satu produk AMDK yang dipercaya karena kualitas mutu dan kemurniannya.\n\n
+        AMIDIS sangat memperhatikan kualitas dari produk, berawal dari proses pengolahan air baku melalui kombinasi proses demineralisasi, penyaringan Reverse Osmosis (RO), pemurnian dengan proses distilasi (penyulingan mencapai suhu 110°C) dan sterilisasi dengan proses ozonisasi dan proses pengisian yang higienis sehingga menghasilkan air sehat yang terjaga hingga dapat dikonsumsi oleh konsumen.\n\n
+        AMIDIS di proses dengan distilasi atau penyulingan yaitu suatu metode pemisahan bahan berdasarkan kemudahan menguap (volatilitas) bahan. Dalam proses distilasi, air dididihkan hingga mencapai 110° C dalam tekanan atmosfer sehingga menjadi uap air H2O murni , meninggalkan seluruh bahan kontaminan dan bahan kimia lainnya yang terkandung dalam air. Uap air H2O murni yang sudah terkumpul kemudian didinginkan kembali ke dalam bentuk cairan (kondensasi) sehingga menghasilkan air murni H2O AMIDIS.\n\n</item>
+
+        <item>Aqua menjadi salah satu ikon air mineral yang sangat terkenal di dunia. Air mineral seperti aqua memiliki perbedaan dengan jenis air minum dalam kemasan yang dikeluarkan dengan beberapa nama yang berbeda. Air mineral aqua diambil langsung dari sumber mata air pegunungan dengan proses yang higienis. Pengolahan dengan berbagai jenis perlengkapan canggih akan membuat air mineral aqua mengandung berbagai jenis mineral yang sangat baik untuk tubuh.
+
+Air mineral mengandung beberapa mineral asli dari sumber mata air seperti kalsium, zat besi dan magnesium. Air mineral aqua tidak mengandung bahan tambahan, bahan kimia maupun bahan pengawet. Ini adalah salah satu keunggulan air mineral dibandingkan jenis air tanah yang dimasak dan dikonsumsi secara langsung. Selain itu pengembangan dan penelitian air mineral sudah dilakukan oleh para ahli sehingga sangat menyehatkan untuk tubuh.\n\n
+        Aqua ternyata memiliki berbagai manfaat yang sangat penting untuk kesehatan tubuh. Air mineral dari sumber alami pegunungan tidak hanya menghilangkan rasa haus tapi juga bisa meningkatkan kesehatan tubuh dan membantu meningkatkan konsentrasi otak. Berikut ini adalah alasan, mengapa aqua memang bermanfaat untuk tubuh.\n\n
+        1. Aqua tidak mengandung natrium atau garam. air alami yang diambil dengan kekayaan sumber mineral sangat baik dikonsumsi untuk anak-anak, orang dewasa hingga orang lanjut usia. Bahkan semua kandungan aqua juga tidak menyebabkan masalah pada tekanan darah yang biasanya disebabkan karena tingginya kadar garam dalam air mineral.\n\n
+        2. Konsumsi aqua selama kehamilan bisa membantu tubuh dalam mencukupi kebutuhan mineral dan air. Air mineral ini sangat aman dikonsumsi ibu hamil dan sama sekali tidak menimbulkan efek samping.\n\n
+        3. Konsumsi aqua juga bisa mengurangi konsumsi minuman bersoda dan berbagai jenis minuman yang mengandung bahan tambahan. Secara umum aqua bisa membuat tubuh menjadi lebih segar.\n\n
+        </item>
+
+        <item>Cleo adalah air murni berkadar kemurnian 99,99% mengandung oksigen sampai dengan 8mg/L @ 20°C. Air Murni Cleo diambil dari mata air pegunungan dan diproses melalui hyper membrane filter 0,0001 mikron sehingga tidak mengandung mikroorganisme dan mineral anorganik, misalnya chlorine dan natrium fluoride. \n
+        Cleo sangat bermanfaat untuk menyegarkan tubuh kita karena sel-sel tubuh dapat lebih cepat menyerap nutrisi secara menyeluruh. Air murni dengan oksigen Cleo sangat berbeda dengan air minum dalam kemasan lainnya, karena rasanya lebih segar dan lebih ringan. \n
+        Kandungan oksigen Air Murni Cleo seimbang dan stabil, sehingga bila tutup botol atau galonnya dibuka oksigennya takkan menguap. \n
+        Semua kemasan Cleo termasuk Cleo Galon terbuat dari bijih plastik murni 100%, tanpa bahan campuran atau daur ulang! </item>
+
+        <item>CLUB air mineral dalam kemasan erkomitmen untuk menjaga kualitas sumber air agar tidak terkontaminasi dari gangguan peresapan dari lingkungan luar. Selain kualitas air, kelangsungan sumber air dijaga dengan cara yang sesuai dengan standar nasional dan internasional.
+Lingkungan mata air dan keberadaan sumber-sumber air penting bagi Club untuk memberikan air yang berkualitas dengan semua kebaikan alam.Club memastikan adanya sumber mata air yang berkelanjutan, baik dari segi kualitas maupun jumlahnya. \n
+        Proses pengolahan air dan produksinya menggunakan teknologi mutakhir namun tetap memperhatikan karateristik air minum alami yang sehat dan bersih.Club menyajikan kemurnian air dari alam untuk kesehatan umat manusia. \n
+        Dengan pengolahan air yang terjamin mutu dan kemurnianya, CLUB memiliki proses sebagai berikut:\n
+            1. Multi Media Filter, untuk menyaring partikel air lebih besar dari 25 micron\n
+            2. First Stage Ozonation, untuk memastikan bakteri yang terdapat dalam sumber air\n
+            3. Active Carbon Filters, untuk menghilangkan bau, warna dan rasa\n
+            4. Mechanical Catridge Filters, untuk menghilangkan partikel-partikel kecil yang lebih kecil dari 2 micron\n
+            5. Ultra Violet Line, untuk menghentikan pertumbuhan jamur dan menghilangkan resiko terkontaminasi pada proses pengisian\n
+            6. Final Stage Ozonation, untuk memastikan pemusnahan bakteri yang mungkinmasih lolos pada saat proses sterilisasi awal.</item>
+
+        <item>Equil adalah air mineral anorganik yang di produksi oleh PT Equilindo Asri. Sedang pemilik PT Equilindo Asri adalah Morgen Sutanto. Untuk .lokasi industrinya berada di Vila D’Equilibrium, dan pabrik pengemasan Equil terletak di kaki Gunung Salak, Sukabumi, Jawa Barat.\n
+        Merk air mineral murni 'Equil' ini sudah cukup dikenal bagi kalangan menengah atas dan ekspatriat. Equil juga sudah sering menjadi pelengkap dan tersaji di hotel bintang lima, meja restoran fine dining, hingga meja Istana Negara saat rapat kabinet.\n
+        Untuk menjamin kelayakan konsumsi, air diperiksa setiap satu jam sekali, mulai dari sumber sampai masuk dalam botol kemasan. “Setelah dikemas, air dikarantina, dikultur selama 5 hari untuk mendeteksi bakteri,” lanjutnya. Inilah yang membedakan dengan AMDK yang bisanya melalui proses penyaringan atau pemurnian dengan distilasi atau oksidasi.\n
+        Equil dikemas dalam botol kaca hijau dengan lekuk elegan. Ia memiliki dua varian produk yaitu natural (tawar) dan sparkling (bersoda). Harganya pun relatif lebih mahal, 1 botol Equil 380 ml setara dengan 20 kali harga air minum kemasan biasa. Karena kemurnian dan kandungan mineral anorganik yang dimiliki, produk Equil juga digunakan untuk berbagai terapi kesehatan. Varian Equil Hydra Tera ini yang biasa dikonsumsi untuk terapi.\n
+        Hingga saat ini, Equil adalah produsen lokal satu-satunya yang memegang merk air mineral alami. Produk yang berasal dari mata air Gunung Salak ini mantap bersaing dengan merk air mineral impor asal Perancis, seperti Evian dan Perrier.</item>
+
+        <item>Evian adalah air mineral alami berasal dari satu sumber di puncak pegunungan Alpen, Perancis. Setiap tetesnya melewati perjalanan dan proses alam selama 15 tahun sebelum muncul di mata air. Pembentukan mineral terjadi selama proses alami tersebut, melewati lapisan es dan bebatuan, dalam komposisi yang unik. Itulah sebabnya evian aman dan dapat dikonsumi setiap hari oleh setiap orang. </item>
+
+        <item>Sumber mata air Le Minerale berasal dari sumber mata air pegunungan terpilih yang terfilter secara alami ke dalam tanah dan melewati berbagai lapisan bumi serta batuan yang kaya akan mineral. Proses tersebut akan menghasilkan air yang kaya akan mineral yang dibutuhkan tubuh. Kandungan mineral yang ada di Le Minerale adalah Kalsium, Magnesium, Sodium, dan Potasium, di mana mineral-mineral tersebut baik untuk kesehatan. Untuk sumber mata air Le Minerale, salah satu sumbernya berasal dari air pegunungan Bromo yang diambil di kedalaman 100 meter bawah tanah, sehingga terlindungi kesegarannya.\n\n
+        Air minum Le Minerale ini memiliki berbagai manfaat yang sangat berguna bagi tubuh Anda. Air minum ini mampu membantu mengurangi dehidrasi tubuh, memberikan kesegaran pada tubuh, serta menunjang kegiatan yang dinamis dan aktif. Minumlah selalu Le Minerale untuk hidup yang lebih sehat dan segar.</item>
+
+        <item>Nestle merupakan produk air mineral yang ramah lingkungan. Nestle PureLife sebelumnya bernama Aberfoyle Springs sebelum akhirnya dibeli oleh perusahaan Nestle pada tahun 2002. Namanya berganti menjadi Nestle Pure Life Natural Spring Water. Untuk Anda yang mengedepankan gaya hidup eco, Anda bisa memilih produk ini.\n
+        Nestle mendapat sertifikat dari Water Stewardship (AWS) International Standard yang menjamin kualitas airnya sangat baik dan ramah lingkungan. Air Nestle Pure Life diproses dengan dua belas langkah pemurnian. Selain itu, kemasan botolnya juga bisa didaur ulang.</item>
+
+        <item>Pristine merupakan air mineral yang telah melalui proses ionisasi. Struktur molekul airnya lebih kecil yang cepat diserap oleh tubuh. Selain itu, air ini kaya antioksidan dan efektif menangkal proses oksidasi yang merusak sel tubuh.\n
+        Airnya murni dan alami berasal dari mata air di Gunung Gede Pangrango dan diproses menggunakan teknologi Jepang. Pristine 8+ sudah bisa ditemukan di berbagai mini market dan direkomendasikan untuk Anda yang mencari air mineral untuk meningkatkan kesehatan.</item>
+
+        <item>Vit merupakan air mineral yang mudah didapat dan termurah.\n
+        Selama lebih dari 30 tahun, VIT menggunakan sumber mata air yang telah melalui uji fisika, kimia, dan mikrobiologi untuk memastikan standar kualitasnya tetap tinggi. Air mineralnya higienis dan bersih,  sebab melalui proses filtrasi dan ozonisasi terkontrol yang membuatnya lebih unggul dibanding dengan merek lain.</item>
+    </string-array>
+</resources>
